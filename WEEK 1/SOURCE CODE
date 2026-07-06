@@ -1,0 +1,93 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>mobile store</title>
+</head>
+<body>
+  <h1>"Online Mobile Store"</h1>
+  <table border=3;border-collapse=collapse;background-color=white>
+  <tr>
+     <th>NAME OF MOBILES</th>
+     <th>DESCRIPTION</th></tr>
+  <tr>
+     <td>VIVO</td>
+     <td><a href="vivo.html">View VIVO Details</a></td>
+  </tr>
+  <tr>
+     <td>OPPO</td>
+     <td><a href="OPPO.html">View OPPO Details</a></td>
+   </tr>
+  <tr>
+     <td>IQOO</td>
+     <td><a href="iqoo.html">View IQOO Details</a></td>
+  </tr>
+</body></html>
+
+VIVO
+<!DOCTYPE html>
+<html>
+<head>
+<title>mobile store</title>
+</head>
+<body>
+  <h1 style="text-align=center">know more about VIVO</h1>
+  <img src="C:\Users\tatin\OneDrive\Pictures\vivo.png.png">
+  <h2>features</h2>
+  <ul>
+     <li>DISPLAY: 6.31 inch (16.04 cm) AMOLED Display with 2640 × 1216 Resolution and HDR10+ Support</li>
+     <li>STORAGE: 12 GB LPDDR5X Ultra RAM | 256 GB UFS 4.1 Internal Storage</li>
+     <li>PROCESSOR: Snapdragon 8 Gen 5 Octa-Core Processor with up to 3.80 GHz Clock Speed | Adreno 829 GPU</li>
+     <li>OPERATING SYSTEM: Android 16 with OriginOS 6</li>
+ </ul>
+ <video width="300" controls>
+    <source src="C:\Users\tatin\Videos\vivo.mp4"type="video/mp4">
+  </video>
+</body></html>
+
+OPPO
+
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>mobile store</title> 
+</head> 
+<body> 
+    <h1 style="text-align:center">know more about OPPO</h1> 
+    <img src="C:\Users\tatin\OneDrive\Pictures\Screenshots\oppo.jpeg.png"> 
+    <h2>features</h2> 
+    <ul> 
+        <li>DISPLAY: 6.82 inch (17.32 cm) LTPO AMOLED Display with 3168 × 1440 Resolution and ProXDR Support</li> 
+        <li>STORAGE: 16 GB LPDDR5X RAM | 512 GB UFS 4.0 Internal Storage</li> 
+        <li>PROCESSOR: Snapdragon 8 Gen 5 Octa-Core Processor with up to 3.80 GHz Clock Speed | Adreno 829 GPU</li> 
+        <li>OPERATING SYSTEM: Android 16 with ColorOS 16</li> 
+    </ul> 
+  <video width="300" controls>
+    <source src="vivo.mp4"type="video/mp4">
+  </video>
+</body>
+</html>
+
+IQOO
+
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>mobile store</title> 
+</head> 
+<body> 
+    <h1 style="text-align:center">know more about iqoo</h1> 
+    <img src="C:\Users\tatin\OneDrive\Pictures\Screenshots\iqoo.jpeg.png"> 
+    <h2>features</h2> 
+    <ul> 
+        <li>DISPLAY: 6.82 inch (17.32 cm) LTPO AMOLED Display with 3168 × 1440 Resolution and ProXDR Support</li> 
+        <li>STORAGE: 16 GB LPDDR5X RAM | 512 GB UFS 4.0 Internal Storage</li> 
+        <li>PROCESSOR: Snapdragon 8 Gen 5 Octa-Core Processor with up to 3.80 GHz Clock Speed | Adreno 829 GPU</li> 
+        <li>OPERATING SYSTEM: Android 16 with ColorOS 16</li> 
+    </ul> 
+   <video width="300" controls>
+    <source src="vivo.mp4"type="video/mp4">
+  </video>
+</body>
+</html>
+
