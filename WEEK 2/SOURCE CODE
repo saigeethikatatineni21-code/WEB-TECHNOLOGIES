@@ -1,0 +1,86 @@
+HEAD
+<!DOCTYPE html>
+<html>
+<body>
+<frame set>
+ <frame set rows="20%,80%">
+ <frame src="top.html">
+ <frame set cols="30%,*">
+   <frame src="menu.html">
+   <frame src="welcome.html">
+</frame set></body>
+</html>
+
+TOP
+<!DOCTYPE html>
+<html>
+<body style="background-color:light blue">
+<h1 align="center">"Vardhaman college of engineering"</h1>
+</body>
+</html>
+
+WELCOME
+<!DOCTYPE html>
+<html><head>
+<link rel="style sheet"href="style.css"></head>
+<body>
+<h2>Welcome</h2>
+</body></html>
+
+MENU
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+a{
+   display:black;
+   padding:10pm;
+   text-decoration:none;
+   color:blue;
+  }
+</style></head>
+<body>
+ <a href="about.html"target="content">about</a>
+ <a href="courses.html"target="content">courses</a>
+ <a href="contact.html"target="content">contact</a>
+</body></html>
+
+ABOUT
+<!DOCTYPE html>
+<html><head>
+<link rel="style sheet"href="style.css">
+</head>
+<h2>About college</h2>
+<p>Vardhaman college of engineering is located in HYD</P>
+</body></html>
+
+
+CONTACT
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="style sheet"href="style.css">
+</head>
+<body>
+<h2>contact us</h2>
+<p>HYD,Telangana</P>
+</body></html>
+
+COURSES
+
+<!DDOCTYPE html>
+<html><head>
+<link rel="style sheet"href="style.css"></head>
+<body>
+<h2>Courses offeres></h2>
+<p>
+<list>
+  <ul>Btech</ul>
+  <ul>Mtech</ul>
+  <ul>MBA</ul>
+</list>
+</p></body>
+</html>
+<p>select a link from Menu</p>
+</body></html>
+ 
